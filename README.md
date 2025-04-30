@@ -39,7 +39,7 @@ python pretrain_ppo.py \
   --train_step 50000 \
   --testing False \
   --testing_episode 10
-
+```
 ### 2. Extract reward funcion
 
 ```bash
@@ -48,7 +48,7 @@ python airl_train.py \
   --seed 345 \
   --pretrain True \
   --pretrain_path "./model/bc_pretrain/pretrain_model.zip"
-
+```
 ### 3. Evaluate reward function
 
 ```bash
@@ -66,7 +66,7 @@ python ppo_train.py \
   --max_grad_norm 0.15 \
   --train_step 260000 \
   --mode "airl" or "rewar1"  or "rewar2" or "rewar3"
-
+```
 ## 😄 Reference
 
 Reference environment and part of reward function idea for my baseline training **https://github.com/sunghoonhong/AirsimDRL?tab=readme-ov-file#check-1-min-madness **
