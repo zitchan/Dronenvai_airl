@@ -67,6 +67,6 @@ python ppo_train.py \
   --train_step 260000 \
   --mode "airl" or "rewar1"  or "rewar2" or "rewar3"
 ```
-## 😄 Reference
+## 😄 Reference & acknowledgment
 
-Reference environment and part of baseline reward function idea for my baseline training **https://github.com/sunghoonhong/AirsimDRL **
+Reference environment and part of baseline reward function idea for my training **https://github.com/sunghoonhong/AirsimDRL **
