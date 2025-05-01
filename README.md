@@ -69,4 +69,4 @@ python ppo_train.py \
 ```
 ## 😄 Reference
 
-Reference environment and part of reward function idea for my baseline training **https://github.com/sunghoonhong/AirsimDRL?tab=readme-ov-file#check-1-min-madness **
+Reference environment and part of baseline reward function idea for my baseline training **https://github.com/sunghoonhong/AirsimDRL?tab=readme-ov-file#check-1-min-madness **
