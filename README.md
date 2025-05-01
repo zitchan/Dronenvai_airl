@@ -15,7 +15,7 @@ Windows 10<br>
 Python 3.10.13<br>
 
 ## 🔌 Prepare training
-Download：https://drive.google.com/drive/folders/1fHg3iDCTcPSZ6J9T8eIQB5l8gxJmqQEL?usp=sharing <br>
+Download：[https://drive.google.com/drive/folders/1fHg3iDCTcPSZ6J9T8eIQB5l8gxJmqQEL?usp=sharing](https://drive.google.com/file/d/19bD-eZBxFn_FbMKm5ftTZ_psMmCP10cl/view?usp=drive_link) <br>
 Unzip all file & Extract the **model** into the project root <br>
 Unzip the env to whatever u like
 
