@@ -15,8 +15,8 @@ Windows 10<br>
 Python 3.10.13<br>
 
 ## 🔌 Prepare training
-Download：[https://drive.google.com/drive/folders/1fHg3iDCTcPSZ6J9T8eIQB5l8gxJmqQEL?usp=sharing](https://drive.google.com/file/d/19bD-eZBxFn_FbMKm5ftTZ_psMmCP10cl/view?usp=drive_link) <br>
-(Reminder: This link has been anonymized, does not contain relevant information such as the author, and has been processed for double blind review)<br>
+Download：https://drive.google.com/file/d/1PP7fZ1aoXN4u-jsJjv2CFm5q5xAD4mbV/view?usp=sharing <br>
+
 
 
 Unzip all file & Extract the **model** into the project root <br>
